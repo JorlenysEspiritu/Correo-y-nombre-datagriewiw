@@ -1,0 +1,30 @@
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\datagridview correo\bin\Debug\datagridview correo.exe.config
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\datagridview correo\bin\Debug\datagridview correo.exe
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\datagridview correo\bin\Debug\datagridview correo.pdb
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\datagridview correo\obj\Debug\datagridview correo.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\datagridview correo\obj\Debug\datagridview_correo.Form1.resources
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\datagridview correo\obj\Debug\datagridview_correo.Properties.Resources.resources
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\datagridview correo\obj\Debug\datagridview correo.csproj.GenerateResource.cache
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\datagridview correo\obj\Debug\datagridview correo.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\datagridview correo\obj\Debug\datagridview correo.exe
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\datagridview correo\obj\Debug\datagridview correo.pdb
+D:\datagridview correo\bin\Debug\datagridview correo.exe.config
+D:\datagridview correo\bin\Debug\datagridview correo.exe
+D:\datagridview correo\bin\Debug\datagridview correo.pdb
+D:\datagridview correo\obj\Debug\datagridview correo.csproj.AssemblyReference.cache
+D:\datagridview correo\obj\Debug\datagridview_correo.Form1.resources
+D:\datagridview correo\obj\Debug\datagridview_correo.Properties.Resources.resources
+D:\datagridview correo\obj\Debug\datagridview correo.csproj.GenerateResource.cache
+D:\datagridview correo\obj\Debug\datagridview correo.csproj.CoreCompileInputs.cache
+D:\datagridview correo\obj\Debug\datagridview correo.exe
+D:\datagridview correo\obj\Debug\datagridview correo.pdb
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\datagridview correo\bin\Debug\datagridview correo.exe.config
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\datagridview correo\bin\Debug\datagridview correo.exe
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\datagridview correo\bin\Debug\datagridview correo.pdb
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\datagridview correo\obj\Debug\datagridview correo.csproj.AssemblyReference.cache
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\datagridview correo\obj\Debug\datagridview_correo.Form1.resources
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\datagridview correo\obj\Debug\datagridview_correo.Properties.Resources.resources
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\datagridview correo\obj\Debug\datagridview correo.csproj.GenerateResource.cache
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\datagridview correo\obj\Debug\datagridview correo.csproj.CoreCompileInputs.cache
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\datagridview correo\obj\Debug\datagridview correo.exe
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\datagridview correo\obj\Debug\datagridview correo.pdb
